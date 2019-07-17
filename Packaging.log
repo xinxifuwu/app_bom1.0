@@ -1,0 +1,619 @@
+2019-07-16 08:47:50 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fafc18dc130; archive(resolved)='<IDEArchive: 0x7faf75c5d1c0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fafc18dc130; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fafc855dad0; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fafd2205b80; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fafc8514db0; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fafd3f5d9d0; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faf7c9c9b50; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fafaaee69e0; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faf7c905e20; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7faf7e8f7b70; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fafcf090e90; teamID='6XCZ433574', teamName='Jiuzhou Industrial Holdings Group Co, Ltd.', teamType='Enterprise', username='xinxifuwu@jzfyjt.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fafd3f5ff70; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='(null)'>
+	<IDEDistributionContext: 0x7fafc1897c30; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='<IDEDistributionMethodiOSEnterprise: 0x7fafceba17f0>', team='(null)'>
+	<IDEDistributionContext: 0x7fafc188ea10; archive = '<IDEArchive: 0x7faf75c5d1c0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fafc18dc130>
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionCreateDestRootStep
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionCopyItemStep
+2019-07-16 08:47:50 +0000  Running /usr/bin/ditto '-V' '/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app'
+2019-07-16 08:47:50 +0000  >>> Copying /Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app 
+2019-07-16 08:47:50 +0000  copying file ./_CodeSignature/CodeResources ... 
+2019-07-16 08:47:50 +0000  21725 bytes for ./_CodeSignature/CodeResources
+2019-07-16 08:47:50 +0000  copying file ./AppIcon60x60@2x.png ... 
+2019-07-16 08:47:50 +0000  14691 bytes for ./AppIcon60x60@2x.png
+2019-07-16 08:47:50 +0000  copying file ./Runner ... 
+2019-07-16 08:47:50 +0000  476848 bytes for ./Runner
+2019-07-16 08:47:50 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2019-07-16 08:47:50 +0000  923 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2019-07-16 08:47:50 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-07-16 08:47:50 +0000  1791 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2019-07-16 08:47:50 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2019-07-16 08:47:50 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-07-16 08:47:50 +0000  2158 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-07-16 08:47:50 +0000  832 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-07-16 08:47:50 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2019-07-16 08:47:50 +0000  copying file ./Assets.car ... 
+2019-07-16 08:47:50 +0000  669640 bytes for ./Assets.car
+2019-07-16 08:47:50 +0000  copying file ./AppFrameworkInfo.plist ... 
+2019-07-16 08:47:50 +0000  376 bytes for ./AppFrameworkInfo.plist
+copying file ./AppIcon76x76@2x~ipad.png ... 
+2019-07-16 08:47:50 +0000  19726 bytes for ./AppIcon76x76@2x~ipad.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftCoreImage.dylib ... 
+2019-07-16 08:47:50 +0000  335072 bytes for ./Frameworks/libswiftCoreImage.dylib
+copying file ./Frameworks/libswiftObjectiveC.dylib ... 
+2019-07-16 08:47:50 +0000  400112 bytes for ./Frameworks/libswiftObjectiveC.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftCore.dylib ... 
+2019-07-16 08:47:50 +0000  23297568 bytes for ./Frameworks/libswiftCore.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftCoreGraphics.dylib ... 
+2019-07-16 08:47:50 +0000  857648 bytes for ./Frameworks/libswiftCoreGraphics.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftUIKit.dylib ... 
+2019-07-16 08:47:50 +0000  655616 bytes for ./Frameworks/libswiftUIKit.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftMetal.dylib ... 
+2019-07-16 08:47:50 +0000  395696 bytes for ./Frameworks/libswiftMetal.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftDispatch.dylib ... 
+2019-07-16 08:47:50 +0000  1377360 bytes for ./Frameworks/libswiftDispatch.dylib
+copying file ./Frameworks/libswiftos.dylib ... 
+2019-07-16 08:47:50 +0000  396976 bytes for ./Frameworks/libswiftos.dylib
+copying file ./Frameworks/libswiftCoreFoundation.dylib ... 
+2019-07-16 08:47:50 +0000  335280 bytes for ./Frameworks/libswiftCoreFoundation.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/Flutter.framework/_CodeSignature/CodeResources ... 
+2019-07-16 08:47:50 +0000  2084 bytes for ./Frameworks/Flutter.framework/_CodeSignature/CodeResources
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/Flutter.framework/icudtl.dat ... 
+2019-07-16 08:47:50 +0000  883280 bytes for ./Frameworks/Flutter.framework/icudtl.dat
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/Flutter.framework/Flutter ... 
+2019-07-16 08:47:50 +0000  6949168 bytes for ./Frameworks/Flutter.framework/Flutter
+copying file ./Frameworks/Flutter.framework/Info.plist ... 
+2019-07-16 08:47:50 +0000  777 bytes for ./Frameworks/Flutter.framework/Info.plist
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/_CodeSignature/CodeResources ... 
+2019-07-16 08:47:50 +0000  14128 bytes for ./Frameworks/App.framework/_CodeSignature/CodeResources
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/App ... 
+2019-07-16 08:47:50 +0000  12145536 bytes for ./Frameworks/App.framework/App
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/LICENSE ... 
+2019-07-16 08:47:50 +0000  682857 bytes for ./Frameworks/App.framework/flutter_assets/LICENSE
+copying file ./Frameworks/App.framework/flutter_assets/AssetManifest.json ... 
+2019-07-16 08:47:50 +0000  2065 bytes for ./Frameworks/App.framework/flutter_assets/AssetManifest.json
+copying file ./Frameworks/App.framework/flutter_assets/FontManifest.json ... 
+2019-07-16 08:47:50 +0000  450 bytes for ./Frameworks/App.framework/flutter_assets/FontManifest.json
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf ... 
+2019-07-16 08:47:50 +0000  97680 bytes for ./Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf ... 
+2019-07-16 08:47:50 +0000  134640 bytes for ./Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/data/org_user.json ... 
+2019-07-16 08:47:50 +0000  3010 bytes for ./Frameworks/App.framework/flutter_assets/data/org_user.json
+copying file ./Frameworks/App.framework/flutter_assets/data/province.json ... 
+2019-07-16 08:47:50 +0000  282039 bytes for ./Frameworks/App.framework/flutter_assets/data/province.json
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/nav_close.png ... 
+2019-07-16 08:47:50 +0000  387 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/nav_close.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/food02.jpeg ... 
+2019-07-16 08:47:50 +0000  25171 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/food02.jpeg
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/food03.jpeg ... 
+2019-07-16 08:47:50 +0000  27898 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/food03.jpeg
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/share_wechat.png ... 
+2019-07-16 08:47:50 +0000  2371 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/share_wechat.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/food04.jpeg ... 
+2019-07-16 08:47:50 +0000  24675 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/food04.jpeg
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/girl02.png ... 
+2019-07-16 08:47:50 +0000  121381 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/girl02.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/girl03.png ... 
+2019-07-16 08:47:50 +0000  141847 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/girl03.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/girl01.png ... 
+2019-07-16 08:47:50 +0000  318138 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/girl01.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/publish_work_sign.png ... 
+2019-07-16 08:47:50 +0000  986 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/publish_work_sign.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/food05.jpeg ... 
+2019-07-16 08:47:50 +0000  18556 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/food05.jpeg
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/footer.jpeg ... 
+2019-07-16 08:47:50 +0000  12100 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/footer.jpeg
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/btn/location_pencil.png ... 
+2019-07-16 08:47:50 +0000  1680 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/btn/location_pencil.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/btn/qd02.png ... 
+2019-07-16 08:47:50 +0000  12254 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/btn/qd02.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/btn/sp_bt.png ... 
+2019-07-16 08:47:50 +0000  3454 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/btn/sp_bt.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/btn/needleleftyellow.png ... 
+2019-07-16 08:47:50 +0000  9426 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/btn/needleleftyellow.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/btn/delete.png ... 
+2019-07-16 08:47:50 +0000  3487 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/btn/delete.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/btn/workflow.png ... 
+2019-07-16 08:47:50 +0000  35186 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/btn/workflow.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/flutter_icon.png ... 
+2019-07-16 08:47:50 +0000  12564 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/flutter_icon.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/korganizer_todo.png ... 
+2019-07-16 08:47:50 +0000  29035 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/korganizer_todo.png
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/food06.jpeg ... 
+2019-07-16 08:47:50 +0000  12162 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/food06.jpeg
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/share_qq.png ... 
+2019-07-16 08:47:50 +0000  1924 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/share_qq.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/logo.png ... 
+2019-07-16 08:47:50 +0000  7967 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/logo.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/avatar2.png ... 
+2019-07-16 08:47:50 +0000  2613 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/avatar2.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/shop.jpeg ... 
+2019-07-16 08:47:50 +0000  19187 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/shop.jpeg
+copying file ./Frameworks/App.framework/flutter_assets/assets/images/publish_work_line.png ... 
+2019-07-16 08:47:50 +0000  1275 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/publish_work_line.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/food01.jpeg ... 
+2019-07-16 08:47:50 +0000  21485 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/food01.jpeg
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/login/loginBG.png ... 
+2019-07-16 08:47:50 +0000  211380 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/login/loginBG.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/images/publish_chat_box.png ... 
+2019-07-16 08:47:50 +0000  2749 bytes for ./Frameworks/App.framework/flutter_assets/assets/images/publish_chat_box.png
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/flutter_assets/assets/fonts/iconfont/iconfont.ttf ... 
+2019-07-16 08:47:50 +0000  32736 bytes for ./Frameworks/App.framework/flutter_assets/assets/fonts/iconfont/iconfont.ttf
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/App.framework/Info.plist ... 
+2019-07-16 08:47:50 +0000  773 bytes for ./Frameworks/App.framework/Info.plist
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftDarwin.dylib ... 
+2019-07-16 08:47:50 +0000  499744 bytes for ./Frameworks/libswiftDarwin.dylib
+2019-07-16 08:47:50 +0000  copying file ./Frameworks/libswiftQuartzCore.dylib ... 
+2019-07-16 08:47:50 +0000  338256 bytes for ./Frameworks/libswiftQuartzCore.dylib
+copying file ./Frameworks/libswiftCoreAudio.dylib ... 
+2019-07-16 08:47:50 +0000  408608 bytes for ./Frameworks/libswiftCoreAudio.dylib
+copying file ./Frameworks/libswiftFoundation.dylib ... 
+2019-07-16 08:47:50 +0000  11552336 bytes for ./Frameworks/libswiftFoundation.dylib
+copying file ./Frameworks/libswiftCoreMedia.dylib ... 
+2019-07-16 08:47:50 +0000  400112 bytes for ./Frameworks/libswiftCoreMedia.dylib
+2019-07-16 08:47:50 +0000  copying file ./embedded.mobileprovision ... 
+2019-07-16 08:47:50 +0000  17688 bytes for ./embedded.mobileprovision
+2019-07-16 08:47:50 +0000  copying file ./Info.plist ... 
+2019-07-16 08:47:50 +0000  1562 bytes for ./Info.plist
+copying file ./PkgInfo ... 
+2019-07-16 08:47:50 +0000  8 bytes for ./PkgInfo
+2019-07-16 08:47:50 +0000  /usr/bin/ditto exited with 0
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionEmbedProfileStep
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faf8c2b2c80 'io.flutter.flutter.app' '<DVTFilePath:0x7fafcee12250:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faf7c939490 'io.flutter.flutter' '<DVTFilePath:0x7fafaae14ad0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc1890560 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faf6b155d90:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCore.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc853ce30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fafd18d17f0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc1893d20 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fafcd8e7240:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faf7c905930 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faf6b135fb0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc85dac70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faf6cb342d0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc8582bd0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fafb8af2af0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faf7d1ca2e0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fafd34d6b60:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc18e77a0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faf7c7c6100:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faf7d114df0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fafcd8f8bc0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc85f8710 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fafd3153160:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftMetal.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc1804ac0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faf90553180:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7faf77ba53c0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fafb0ba06c0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc188ce50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fafb8a84b40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fafc8589fb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faf77461a40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftos.dylib'>'>
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionSymbolsStep
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionAppThinningStep
+2019-07-16 08:47:50 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionArchThinningStep
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/App.framework/App' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-16 08:47:50 +0000  Skipping architecture thinning for item "App" because arch "arm64e" wasn't found
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/Flutter.framework/Flutter' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-16 08:47:50 +0000  Skipping architecture thinning for item "Flutter" because arch "arm64e" wasn't found
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCore.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCore.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftCore.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftCoreAudio.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftCoreFoundation.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftCoreGraphics.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreImage.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreImage.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreImage.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftCoreImage.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftCoreMedia.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDarwin.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDarwin.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDarwin.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftDarwin.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDispatch.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDispatch.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDispatch.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftDispatch.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftFoundation.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftFoundation.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftFoundation.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftFoundation.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftMetal.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftMetal.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftMetal.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftMetal.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftObjectiveC.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftQuartzCore.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftUIKit.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftUIKit.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftUIKit.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftUIKit.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftos.dylib' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftos.dylib' '-remove' 'arm64e' '-output' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftos.dylib'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 0
+2019-07-16 08:47:50 +0000  Successfully thinned item "libswiftos.dylib", arch "arm64e"
+2019-07-16 08:47:50 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Runner' '-verify_arch' 'arm64e'
+2019-07-16 08:47:50 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2019-07-16 08:47:50 +0000  Skipping architecture thinning for item "Runner" because arch "arm64e" wasn't found
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionODRStep
+2019-07-16 08:47:50 +0000  Processing step: IDEDistributionStripXattrsStep
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faf8c2b2c80 'io.flutter.flutter.app' '<DVTFilePath:0x7fafcee12250:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faf7c939490 'io.flutter.flutter' '<DVTFilePath:0x7fafaae14ad0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc1890560 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faf6b155d90:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCore.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc853ce30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fafd18d17f0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreAudio.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc1893d20 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fafcd8e7240:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreFoundation.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faf7c905930 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faf6b135fb0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreGraphics.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc85dac70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faf6cb342d0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreImage.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc8582bd0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fafb8af2af0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreMedia.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faf7d1ca2e0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fafd34d6b60:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDarwin.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc18e77a0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faf7c7c6100:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDispatch.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faf7d114df0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fafcd8f8bc0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftFoundation.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc85f8710 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fafd3153160:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftMetal.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc1804ac0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faf90553180:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftObjectiveC.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7faf77ba53c0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fafb0ba06c0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftQuartzCore.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc188ce50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fafb8a84b40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftUIKit.dylib'>'>
+2019-07-16 08:47:50 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fafc8589fb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faf77461a40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftos.dylib'>'>
+2019-07-16 08:47:50 +0000  Running /usr/bin/xattr '-crs' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app'
+2019-07-16 08:47:51 +0000  /usr/bin/xattr exited with 0
+2019-07-16 08:47:51 +0000  Processing step: IDEDistributionCodesignStep
+2019-07-16 08:47:51 +0000  Entitlements for <IDEDistributionItem: 0x7faf8c2b2c80 'io.flutter.flutter.app' '<DVTFilePath:0x7fafcee12250:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework'>'>: {
+}
+2019-07-16 08:47:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7faf8c2b2c80 'io.flutter.flutter.app' '<DVTFilePath:0x7fafcee12250:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/App.framework'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~fON7dg
+2019-07-16 08:47:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~fON7dg' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/App.framework'
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/App.framework: replacing existing signature
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/App.framework: signed bundle with Mach-O universal (arm64) [io.flutter.flutter.app]
+2019-07-16 08:47:51 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:51 +0000  Entitlements for <IDEDistributionItem: 0x7faf7c939490 'io.flutter.flutter' '<DVTFilePath:0x7fafaae14ad0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework'>'>: {
+}
+2019-07-16 08:47:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7faf7c939490 'io.flutter.flutter' '<DVTFilePath:0x7fafaae14ad0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/Flutter.framework'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~6cs1Rb
+2019-07-16 08:47:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~6cs1Rb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/Flutter.framework'
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/Flutter.framework: replacing existing signature
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/Flutter.framework: signed bundle with Mach-O universal (arm64) [io.flutter.flutter]
+2019-07-16 08:47:51 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:51 +0000  Entitlements for <IDEDistributionItem: 0x7fafc1890560 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faf6b155d90:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCore.dylib'>'>: {
+}
+2019-07-16 08:47:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc1890560 'com.apple.dt.runtime.swiftCore' '<DVTFilePath:0x7faf6b155d90:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCore.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~lMp1xb
+2019-07-16 08:47:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~lMp1xb' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCore.dylib'
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCore.dylib: replacing existing signature
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCore]
+2019-07-16 08:47:51 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:51 +0000  Entitlements for <IDEDistributionItem: 0x7fafc853ce30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fafd18d17f0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreAudio.dylib'>'>: {
+}
+2019-07-16 08:47:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc853ce30 'com.apple.dt.runtime.swiftCoreAudio' '<DVTFilePath:0x7fafd18d17f0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreAudio.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~vXxIyU
+2019-07-16 08:47:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~vXxIyU' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib'
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib: replacing existing signature
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreAudio]
+2019-07-16 08:47:51 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:51 +0000  Entitlements for <IDEDistributionItem: 0x7fafc1893d20 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fafcd8e7240:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreFoundation.dylib'>'>: {
+}
+2019-07-16 08:47:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc1893d20 'com.apple.dt.runtime.swiftCoreFoundation' '<DVTFilePath:0x7fafcd8e7240:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreFoundation.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~tOSgOk
+2019-07-16 08:47:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~tOSgOk' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib'
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib: replacing existing signature
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreFoundation]
+2019-07-16 08:47:51 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:51 +0000  Entitlements for <IDEDistributionItem: 0x7faf7c905930 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faf6b135fb0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreGraphics.dylib'>'>: {
+}
+2019-07-16 08:47:51 +0000  Writing entitlements for <IDEDistributionItem: 0x7faf7c905930 'com.apple.dt.runtime.swiftCoreGraphics' '<DVTFilePath:0x7faf6b135fb0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreGraphics.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~Zz97aa
+2019-07-16 08:47:51 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~Zz97aa' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib'
+2019-07-16 08:47:51 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreGraphics]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7fafc85dac70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faf6cb342d0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreImage.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc85dac70 'com.apple.dt.runtime.swiftCoreImage' '<DVTFilePath:0x7faf6cb342d0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreImage.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~FmGm3o
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~FmGm3o' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreImage.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreImage.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreImage.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreImage]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7fafc8582bd0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fafb8af2af0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreMedia.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc8582bd0 'com.apple.dt.runtime.swiftCoreMedia' '<DVTFilePath:0x7fafb8af2af0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftCoreMedia.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~IfdzFF
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~IfdzFF' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftCoreMedia]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7faf7d1ca2e0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fafd34d6b60:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDarwin.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7faf7d1ca2e0 'com.apple.dt.runtime.swiftDarwin' '<DVTFilePath:0x7fafd34d6b60:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDarwin.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~fu1RG3
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~fu1RG3' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDarwin.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDarwin.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDarwin.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDarwin]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7fafc18e77a0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faf7c7c6100:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDispatch.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc18e77a0 'com.apple.dt.runtime.swiftDispatch' '<DVTFilePath:0x7faf7c7c6100:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftDispatch.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~kXqTRf
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~kXqTRf' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDispatch.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDispatch.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftDispatch.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftDispatch]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7faf7d114df0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fafcd8f8bc0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftFoundation.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7faf7d114df0 'com.apple.dt.runtime.swiftFoundation' '<DVTFilePath:0x7fafcd8f8bc0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftFoundation.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~Q5jmJY
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~Q5jmJY' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftFoundation.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftFoundation.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftFoundation.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftFoundation]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7fafc85f8710 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fafd3153160:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftMetal.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc85f8710 'com.apple.dt.runtime.swiftMetal' '<DVTFilePath:0x7fafd3153160:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftMetal.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~QRrUYh
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~QRrUYh' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftMetal.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftMetal.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftMetal.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftMetal]
+2019-07-16 08:47:52 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:52 +0000  Entitlements for <IDEDistributionItem: 0x7fafc1804ac0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faf90553180:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftObjectiveC.dylib'>'>: {
+}
+2019-07-16 08:47:52 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc1804ac0 'com.apple.dt.runtime.swiftObjectiveC' '<DVTFilePath:0x7faf90553180:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftObjectiveC.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~D2h3gL
+2019-07-16 08:47:52 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~D2h3gL' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib'
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib: replacing existing signature
+2019-07-16 08:47:52 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftObjectiveC]
+2019-07-16 08:47:53 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:53 +0000  Entitlements for <IDEDistributionItem: 0x7faf77ba53c0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fafb0ba06c0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftQuartzCore.dylib'>'>: {
+}
+2019-07-16 08:47:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7faf77ba53c0 'com.apple.dt.runtime.swiftQuartzCore' '<DVTFilePath:0x7fafb0ba06c0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftQuartzCore.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~3bndTJ
+2019-07-16 08:47:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~3bndTJ' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib'
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib: replacing existing signature
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftQuartzCore]
+2019-07-16 08:47:53 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:53 +0000  Entitlements for <IDEDistributionItem: 0x7fafc188ce50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fafb8a84b40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftUIKit.dylib'>'>: {
+}
+2019-07-16 08:47:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc188ce50 'com.apple.dt.runtime.swiftUIKit' '<DVTFilePath:0x7fafb8a84b40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftUIKit.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~mnmnt4
+2019-07-16 08:47:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~mnmnt4' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftUIKit.dylib'
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftUIKit.dylib: replacing existing signature
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftUIKit.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftUIKit]
+2019-07-16 08:47:53 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:53 +0000  Entitlements for <IDEDistributionItem: 0x7fafc8589fb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faf77461a40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftos.dylib'>'>: {
+}
+2019-07-16 08:47:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc8589fb0 'com.apple.dt.runtime.swiftos' '<DVTFilePath:0x7faf77461a40:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app/Frameworks/libswiftos.dylib'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~SqL39b
+2019-07-16 08:47:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~SqL39b' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftos.dylib'
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftos.dylib: replacing existing signature
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app/Frameworks/libswiftos.dylib: signed Mach-O universal (armv7 armv7s arm64) [com.apple.dt.runtime.swiftos]
+2019-07-16 08:47:53 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:53 +0000  Entitlements for <IDEDistributionItem: 0x7fafc852ecb0 'com.jzfy.app' '<DVTFilePath:0x7fafc187cfa0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app'>'>: {
+    "application-identifier" = "6XCZ433574.com.jzfy.app";
+    "com.apple.developer.team-identifier" = 6XCZ433574;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "6XCZ433574.com.jzfy.app"
+    );
+}
+2019-07-16 08:47:53 +0000  Writing entitlements for <IDEDistributionItem: 0x7fafc852ecb0 'com.jzfy.app' '<DVTFilePath:0x7fafc187cfa0:'/Users/xinxifuwu/Library/Developer/Xcode/Archives/2019-07-16/Runner 2019-7-16, 4.42 PM.xcarchive/Products/Applications/Runner.app'>'> to: /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~UymlH2
+2019-07-16 08:47:53 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'CBC096C131262E457842DC35714C5E58E3810EA7' '--entitlements' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/entitlements~~~UymlH2' '--preserve-metadata=identifier,flags,runtime' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app'
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app: replacing existing signature
+2019-07-16 08:47:53 +0000  /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root/Payload/Runner.app: signed app bundle with Mach-O thin (arm64) [com.jzfy.app]
+2019-07-16 08:47:53 +0000  /usr/bin/codesign exited with 0
+2019-07-16 08:47:53 +0000  Processing step: IDEDistributionZipODRItemStep
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2019-07-16 08:47:53 +0000  Processing step: IDEDistributionCreateIPAStep
+2019-07-16 08:47:53 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root' '/var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Packages/Runner.ipa'
+2019-07-16 08:47:53 +0000  >>> Copying /var/folders/4d/844mg9mn4b5ccpn181d0fpp80000gn/T/XcodeDistPipeline.~~~Z1deWo/Root 
+2019-07-16 08:47:53 +0000  copying file ./Payload/Runner.app/_CodeSignature/CodeResources ... 
+2019-07-16 08:47:53 +0000  21725 bytes for ./Payload/Runner.app/_CodeSignature/CodeResources
+2019-07-16 08:47:53 +0000  copying file ./Payload/Runner.app/AppIcon60x60@2x.png ... 
+2019-07-16 08:47:53 +0000  14691 bytes for ./Payload/Runner.app/AppIcon60x60@2x.png
+copying file ./Payload/Runner.app/Runner ... 
+2019-07-16 08:47:53 +0000  476864 bytes for ./Payload/Runner.app/Runner
+2019-07-16 08:47:53 +0000  copying file ./Payload/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+923 bytes for ./Payload/Runner.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2019-07-16 08:47:53 +0000  1791 bytes for ./Payload/Runner.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+copying file ./Payload/Runner.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2019-07-16 08:47:53 +0000  258 bytes for ./Payload/Runner.app/Base.lproj/Main.storyboardc/Info.plist
+2019-07-16 08:47:53 +0000  copying file ./Payload/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2019-07-16 08:47:53 +0000  2158 bytes for ./Payload/Runner.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2019-07-16 08:47:53 +0000  832 bytes for ./Payload/Runner.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2019-07-16 08:47:53 +0000  258 bytes for ./Payload/Runner.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+copying file ./Payload/Runner.app/Assets.car ... 
+2019-07-16 08:47:53 +0000  669640 bytes for ./Payload/Runner.app/Assets.car
+copying file ./Payload/Runner.app/AppFrameworkInfo.plist ... 
+2019-07-16 08:47:53 +0000  376 bytes for ./Payload/Runner.app/AppFrameworkInfo.plist
+copying file ./Payload/Runner.app/AppIcon76x76@2x~ipad.png ... 
+2019-07-16 08:47:53 +0000  19726 bytes for ./Payload/Runner.app/AppIcon76x76@2x~ipad.png
+copying file ./Payload/Runner.app/Frameworks/libswiftCoreImage.dylib ... 
+2019-07-16 08:47:53 +0000  253664 bytes for ./Payload/Runner.app/Frameworks/libswiftCoreImage.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib ... 
+2019-07-16 08:47:53 +0000  302656 bytes for ./Payload/Runner.app/Frameworks/libswiftObjectiveC.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftCore.dylib ... 
+2019-07-16 08:47:54 +0000  16915056 bytes for ./Payload/Runner.app/Frameworks/libswiftCore.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib ... 
+2019-07-16 08:47:54 +0000  646864 bytes for ./Payload/Runner.app/Frameworks/libswiftCoreGraphics.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftUIKit.dylib ... 
+2019-07-16 08:47:54 +0000  477168 bytes for ./Payload/Runner.app/Frameworks/libswiftUIKit.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftMetal.dylib ... 
+2019-07-16 08:47:54 +0000  298112 bytes for ./Payload/Runner.app/Frameworks/libswiftMetal.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftDispatch.dylib ... 
+2019-07-16 08:47:54 +0000  1018928 bytes for ./Payload/Runner.app/Frameworks/libswiftDispatch.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftos.dylib ... 
+2019-07-16 08:47:54 +0000  299440 bytes for ./Payload/Runner.app/Frameworks/libswiftos.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib ... 
+2019-07-16 08:47:54 +0000  253808 bytes for ./Payload/Runner.app/Frameworks/libswiftCoreFoundation.dylib
+2019-07-16 08:47:54 +0000  copying file ./Payload/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources ... 
+2084 bytes for ./Payload/Runner.app/Frameworks/Flutter.framework/_CodeSignature/CodeResources
+copying file ./Payload/Runner.app/Frameworks/Flutter.framework/icudtl.dat ... 
+2019-07-16 08:47:54 +0000  883280 bytes for ./Payload/Runner.app/Frameworks/Flutter.framework/icudtl.dat
+copying file ./Payload/Runner.app/Frameworks/Flutter.framework/Flutter ... 
+2019-07-16 08:47:54 +0000  6949488 bytes for ./Payload/Runner.app/Frameworks/Flutter.framework/Flutter
+copying file ./Payload/Runner.app/Frameworks/Flutter.framework/Info.plist ... 
+2019-07-16 08:47:54 +0000  777 bytes for ./Payload/Runner.app/Frameworks/Flutter.framework/Info.plist
+copying file ./Payload/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources ... 
+14128 bytes for ./Payload/Runner.app/Frameworks/App.framework/_CodeSignature/CodeResources
+copying file ./Payload/Runner.app/Frameworks/App.framework/App ... 
+2019-07-16 08:47:55 +0000  12145856 bytes for ./Payload/Runner.app/Frameworks/App.framework/App
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/LICENSE ... 
+2019-07-16 08:47:55 +0000  682857 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/LICENSE
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json ... 
+2019-07-16 08:47:55 +0000  2065 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/AssetManifest.json
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json ... 
+2019-07-16 08:47:55 +0000  450 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/FontManifest.json
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf ... 
+2019-07-16 08:47:55 +0000  97680 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf ... 
+2019-07-16 08:47:55 +0000  134640 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.ttf
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/data/org_user.json ... 
+3010 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/data/org_user.json
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/data/province.json ... 
+2019-07-16 08:47:55 +0000  282039 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/data/province.json
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/nav_close.png ... 
+2019-07-16 08:47:55 +0000  387 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/nav_close.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food02.jpeg ... 
+2019-07-16 08:47:55 +0000  25171 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food02.jpeg
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food03.jpeg ... 
+2019-07-16 08:47:55 +0000  27898 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food03.jpeg
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/share_wechat.png ... 
+2019-07-16 08:47:55 +0000  2371 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/share_wechat.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food04.jpeg ... 
+2019-07-16 08:47:55 +0000  24675 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food04.jpeg
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/girl02.png ... 
+2019-07-16 08:47:55 +0000  121381 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/girl02.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/girl03.png ... 
+2019-07-16 08:47:55 +0000  141847 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/girl03.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/girl01.png ... 
+2019-07-16 08:47:55 +0000  318138 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/girl01.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/publish_work_sign.png ... 
+2019-07-16 08:47:55 +0000  986 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/publish_work_sign.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food05.jpeg ... 
+2019-07-16 08:47:55 +0000  18556 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food05.jpeg
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/footer.jpeg ... 
+2019-07-16 08:47:55 +0000  12100 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/footer.jpeg
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/location_pencil.png ... 
+1680 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/location_pencil.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/qd02.png ... 
+2019-07-16 08:47:55 +0000  12254 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/qd02.png
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/sp_bt.png ... 
+3454 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/sp_bt.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/needleleftyellow.png ... 
+2019-07-16 08:47:55 +0000  9426 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/needleleftyellow.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/delete.png ... 
+2019-07-16 08:47:55 +0000  3487 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/delete.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/workflow.png ... 
+2019-07-16 08:47:55 +0000  35186 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/btn/workflow.png
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/flutter_icon.png ... 
+2019-07-16 08:47:55 +0000  12564 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/flutter_icon.png
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/korganizer_todo.png ... 
+2019-07-16 08:47:55 +0000  29035 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/korganizer_todo.png
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food06.jpeg ... 
+2019-07-16 08:47:55 +0000  12162 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food06.jpeg
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/share_qq.png ... 
+1924 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/share_qq.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/logo.png ... 
+2019-07-16 08:47:55 +0000  7967 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/logo.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/avatar2.png ... 
+2019-07-16 08:47:55 +0000  2613 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/avatar2.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/shop.jpeg ... 
+2019-07-16 08:47:55 +0000  19187 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/shop.jpeg
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/publish_work_line.png ... 
+2019-07-16 08:47:55 +0000  1275 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/publish_work_line.png
+copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food01.jpeg ... 
+2019-07-16 08:47:55 +0000  21485 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/food01.jpeg
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/login/loginBG.png ... 
+2019-07-16 08:47:55 +0000  211380 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/login/loginBG.png
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/publish_chat_box.png ... 
+2749 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/images/publish_chat_box.png
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/fonts/iconfont/iconfont.ttf ... 
+2019-07-16 08:47:55 +0000  32736 bytes for ./Payload/Runner.app/Frameworks/App.framework/flutter_assets/assets/fonts/iconfont/iconfont.ttf
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/App.framework/Info.plist ... 
+773 bytes for ./Payload/Runner.app/Frameworks/App.framework/Info.plist
+copying file ./Payload/Runner.app/Frameworks/libswiftDarwin.dylib ... 
+2019-07-16 08:47:55 +0000  369744 bytes for ./Payload/Runner.app/Frameworks/libswiftDarwin.dylib
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib ... 
+2019-07-16 08:47:55 +0000  256880 bytes for ./Payload/Runner.app/Frameworks/libswiftQuartzCore.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib ... 
+2019-07-16 08:47:55 +0000  311328 bytes for ./Payload/Runner.app/Frameworks/libswiftCoreAudio.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftFoundation.dylib ... 
+2019-07-16 08:47:55 +0000  8479568 bytes for ./Payload/Runner.app/Frameworks/libswiftFoundation.dylib
+copying file ./Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib ... 
+2019-07-16 08:47:55 +0000  302672 bytes for ./Payload/Runner.app/Frameworks/libswiftCoreMedia.dylib
+2019-07-16 08:47:55 +0000  copying file ./Payload/Runner.app/embedded.mobileprovision ... 
+2019-07-16 08:47:55 +0000  9605 bytes for ./Payload/Runner.app/embedded.mobileprovision
+copying file ./Payload/Runner.app/Info.plist ... 
+2019-07-16 08:47:55 +0000  1562 bytes for ./Payload/Runner.app/Info.plist
+copying file ./Payload/Runner.app/PkgInfo ... 
+8 bytes for ./Payload/Runner.app/PkgInfo
+2019-07-16 08:47:55 +0000  /usr/bin/ditto exited with 0
+2019-07-16 08:47:55 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2019-07-16 08:47:55 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2019-07-16 08:47:55 +0000  Processing step: IDEDistributionCreateManifestStep
